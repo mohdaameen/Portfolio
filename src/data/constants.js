@@ -11,8 +11,8 @@ export const Bio = {
   github: "https://github.com/mohdaameen",
   resume:
     "https://drive.google.com/file/d/1UpkPnkHzStj_2RYLRY-6jZYfDmq_6JWr/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
+  linkedin: "https://www.linkedin.com/in/mohd-aameen-1041621b8/",
+  twitter: "https://x.com/AameenMd",
   insta: "https://www.instagram.com/mohdaameeen227/",
 };
 
