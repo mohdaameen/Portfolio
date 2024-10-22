@@ -49,6 +49,7 @@ function App() {
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
+  <script id="embedai" src="https://embedai.thesamur.ai/embedai.js" data-id="merchant-of-venice"></script>
         </Body>
       </Router>
     </ThemeProvider>
