@@ -44,7 +44,12 @@ export const skills = [
           "https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png",
       },
       {
-        name: "Ollama",
+        name: "Lamma3",
+        image:
+          "https://pbs.twimg.com/profile_images/1704899494490357761/EvnqsXn__400x400.jpg",
+      },
+       {
+        name: "Transformers",
         image:
           "https://pbs.twimg.com/profile_images/1704899494490357761/EvnqsXn__400x400.jpg",
       },
