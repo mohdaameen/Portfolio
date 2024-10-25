@@ -1,10 +1,9 @@
 export const Bio = {
   name: "Mohd Aameen",
   roles: [
-    "AI/ML Engineer",
-    "FullStack Developer",
+    "Data Scientist",
+    "AI Engineer",
     "Back-End Developer",
-    "Programmer",
   ],
   description:
     "ML Engineer with over 1 year of experience in developing and deploying industry-level solutions. Skilled in building deep learning models using TensorFlow, PyTorch, and Keras, with hands-on experience in LSTM, CNN, and Transformer architectures. Worked on NLP projects using LLAMA and GPT models, and proficient in data preprocessing, feature engineering, and model optimization. Passionate about leveraging AI to solve real-world problems and continuously learning new technologies.",
