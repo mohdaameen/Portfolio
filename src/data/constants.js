@@ -9,7 +9,7 @@ export const Bio = {
     "ML Engineer with over 1 year of experience in developing and deploying industry-level solutions. Skilled in building deep learning models using TensorFlow, PyTorch, and Keras, with hands-on experience in LSTM, CNN, and Transformer architectures. Worked on NLP projects using LLAMA and GPT models, and proficient in data preprocessing, feature engineering, and model optimization. Passionate about leveraging AI to solve real-world problems and continuously learning new technologies.",
   github: "https://github.com/mohdaameen",
   resume:
-    "https://drive.google.com/file/d/15keHeUxKFmzKAujY9zNsTu_m11GIeWbz/view?usp=drive_link",
+    "https://drive.google.com/file/d/1hEJ-G6YVHFybq1HWDJ6_KzZonCPgjMwy/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mohd-aameen-1041621b8/",
   twitter: "https://x.com/AameenMd",
   insta: "https://www.instagram.com/mohdaameeen227/",
